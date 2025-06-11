@@ -95,7 +95,7 @@ ___
 
 - After the group is formed, members will **split the work by module** as outlined above.
 - Each member should create a **branch** named using the format:  
-  `regno-ft-`  
+  `regno-ft-moduleName`  
   For example: `123456-ft-dequeue`
 - Members will work independently on their branches, unless debugging, of which there a should be clear commit messages denoting so.
 - Once a module is complete and tested, the branch owner will **merge** their branch into the main branch.
@@ -107,19 +107,19 @@ ___
 
 ### What to Submit
 
-- A **GitHub repository** named **QUEUE-Assignment** with all source code.
+- A **GitHub repository** named **QUEUE-Assignment** with all source code, 
 - A **README.md, named submission.md** describing:
   - Group name and member list.
   - Brief description of each member’s module and contributions.
   - Instructions on how to run the code. e.g run main.py
 - Clear **commit history** showing individual contributions.
 - Branches named as per the branching strategy.
-- A **final merged main branch** with a fully working, integrated system.
+- A **final merged main branch** with a fully working, integrated code.
 ---
 
 ## Note Better
 
-This assignment should really foster working as a team, planning your work, and integrating your efforts into a project. Use your group meetings wisely, assign tasks clearly, and help each other accordingly.
+This assignment should foster working as a team, planning your work, and integrating your efforts into a project. Use your group meetings wisely, assign tasks clearly, and help each other accordingly.
 
 ---
 
